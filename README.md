@@ -1,3 +1,4 @@
 # yes-test
 new
-git---version
+git--version
+
