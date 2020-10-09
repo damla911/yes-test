@@ -1,4 +1,2 @@
 # yes-test
-new
-git--version
-
+Not Defteri üzerinden ilk değişiklik!
